@@ -24,7 +24,7 @@ body {
     background-color: #fff;
 }
 
-/* Navigation bar */
+/* Nav */
 
 .navbar {
     padding: 0 0 4.5rem 0;
@@ -150,9 +150,4 @@ body {
 }
 .media-icons {
     margin: 1% 2%;
-}
-
-/* Customs */
-
-#col {
 }
