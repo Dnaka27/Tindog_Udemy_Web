@@ -1,1 +1,1 @@
-TinDog Files. I (Diogo) change just a little bit of code.
+TinDog Files. I modified a little bit of code.
