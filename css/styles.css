@@ -6,12 +6,13 @@ body {
     text-align: left;
 }
 #header-title {
-    font-size: 3.5rem;
+    font-size: 4.5vh;
     line-height: 1.5;
     font-weight: bold;
+    margin: 2h 4vh 2vh 4vh;
 }
 .container-fluid {
-    padding: 3% 15% 7%;
+    padding: 4% 8%;
 }
 
 /* Sections */
@@ -27,32 +28,36 @@ body {
 /* Nav */
 
 .navbar {
-    padding: 0 0 4.5rem 0;
+    padding: 2vh;
 }
 .nav-item {
-    padding: 0 1.125rem;
+    padding: 0 1.125vh;
 }
 .nav-link {
-    font-size: 1.2rem;
+    font-size: 2vh;
 }
 .navbar-brand {
     font-family: "Ubuntu";
-    font-size: 2.5rem;
+    font-size: 4.5vh;
     font-weight: bold;
 }
 
 /* Download buttons */
 
 .download-button {
-    margin: 8% 1% 8% 0;
+    height: 18%;
+    width: 30%;
+    font-size: 1.2rem;
+    margin: 4vh 2vh 4vh 2vh;
 }
 
 /* Title image */
 
 .title-image {
-    width: 22.5%;
+    width: 20%;
     transform: rotate(25deg); /* Image rotation */
     position: absolute;
+    margin: 2vh;
     right: 15%;
 }
 
