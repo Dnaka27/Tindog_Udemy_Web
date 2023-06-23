@@ -9,7 +9,7 @@ body {
     font-size: 4.5vh;
     line-height: 1.5;
     font-weight: bold;
-    margin: 2h 4vh 2vh 4vh;
+    margin: 2.5rem;
 }
 .container-fluid {
     padding: 4% 8%;
@@ -38,7 +38,7 @@ body {
     padding: 0 1.125vh;
 }
 .nav-link {
-    font-size: 2vh;
+    font-size: 1rem;
 }
 .navbar-brand {
     font-family: "Ubuntu";
@@ -51,10 +51,10 @@ body {
 .download-button {
     height: 25%;
     max-height: 80px;
-    width: 45%;
+    width: 40%;
     max-width: 250px;
     font-size: 1.5rem;
-    margin: 2vh;
+    margin: 2rem 2vh 2vh 2vh;
 }
 
 /* Title image */
